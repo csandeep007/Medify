@@ -127,7 +127,20 @@
             android:ems="10"
             android:inputType="textPersonName"
             android:enabled="false"
-            android:text="Ripudaman Singh" />
+            android:text="Sandeep Singh" />
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView7"
+            android:layout_alignStart="@+id/textView7"
+            android:layout_below="@+id/textView7"
+            android:editable="false"
+            android:ems="10"
+            android:layout_marginTop="28dp"
+            android:inputType="textPersonName"
+            android:enabled="false"
+            android:text="Sahib Singh" />
 
         <TextView
             android:id="@+id/textView8"

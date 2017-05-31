@@ -88,12 +88,24 @@
             android:id="@+id/textmail_link"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/email"
+            android:text="csandeep007singh@gmail.com"
             android:textColor="@color/primary"
             android:layout_below="@+id/textView9"
             android:layout_alignLeft="@+id/textView9"
             android:layout_alignStart="@+id/textView9"
             android:layout_marginTop="12dp"
+            android:autoLink="email"/>
+        <TextView
+            android:id="@+id/textmail_link1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="sahibsingh436@gmail.com"
+            android:textColor="@color/primary"
+
+            android:layout_below="@+id/textView9"
+            android:layout_alignLeft="@+id/textView9"
+            android:layout_alignStart="@+id/textView9"
+            android:layout_marginTop="35dp"
             android:autoLink="email"/>
 
         <TextView
